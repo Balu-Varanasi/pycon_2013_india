@@ -10,6 +10,11 @@ PyCon India 2013 Scikit-learn Tutorial
 This repository will contain files and other info associated with PyCon India
 2013 scikit-learn tutorial.
 
+Goals
+-----
+- **Introduce the basics of Machine Learning**, and some skills useful in practice.
+- **Introduce the syntax of scikit-learn**, so that you can make use of the rich toolset available.
+
 Installation Notes
 ------------------
 
