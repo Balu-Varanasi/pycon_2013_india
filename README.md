@@ -68,26 +68,18 @@ launch page in your web browser.
 
 Detailed Outline Tutorial
 -------------------------
-- 0:00 - 0:15 -- Setup and Introduction
-- 0:15 - 0:30 -- Quick review of data visualization with matplotlib and numpy
-- 0:30 - 1:15 -- Representation of data in machine learning
-  + Downloading data within scikit-learn
-  + Categorical & Image data
-  + Feature extraction
-- 1:15 - 2:00 -- Basic principles of Machine Learning & the scikit-learn interface
-  + Supervised Learning: Classification & Regression
-  + Unsupervised Learning: Clustering & Dimensionality Reduction
-  + Example of PCA for data visualization
-  + Flow chart: how do I choose what to do with my data set?
-  + Exercise: Interactive Demo on linearly separable data
-  + Regularization: what it is and why it is necessary
-    - Training set vs test set error
-- 2:00 - 2:15 -- Break (possibly in the middle of the previous section)
-- 2:15 - 3:00 -- Supervised Learning
-  + Example of Classification: hand-written digits
-  + Measuring prediction performance
-  + Example of Regression: boston house prices
-- 3:00 - 4:15 -- Applications
-  + Examples from text mining
-  + Examples from image processing
+- **9:30 - 11:00**: Part 1
+   + An Introduction to Machine Learning
+   + Representation of data and Feature extraction
+   + Basics priciples of Machine Learning
+   + Supervised learning
+       * _regression_
+       * _classification_
+   + Unsupervised learning
+       * _clustering_
+       * _dimensionality reduction_
 
+- **11:00 - 11:10**: short break
+
+- **11:10 - 12:00**: part 2
+   + Validation and testing of models
