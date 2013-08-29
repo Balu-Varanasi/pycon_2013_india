@@ -18,8 +18,15 @@ Goals
 Installation Notes
 ------------------
 
-This tutorial will require recent installations of *numpy*, *scipy*,
-*matplotlib*, *scikit-learn* and *ipython* with ipython notebook.
+This tutorial requires latest versions of the following packages:
+
+- Python version
+- `numpy`: http://www.numpy.org/
+- `scipy`: http://www.scipy.org/
+- `matplotlib`: http://matplotlib.org/
+- `scikit-learn`: http://scikit-learn.org
+- `ipython` with notebook support: http://ipython.org
+
 
 The last one is important, you should be able to type:
 
